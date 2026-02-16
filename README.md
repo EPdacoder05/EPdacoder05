@@ -2,7 +2,7 @@
 
 **Security-First Python Developer | DevSecOps & AI Systems**
 
-📧 epinaman@yahoo.com | 📱 614-695-8215 | 📍 Columbus, Ohio | 💼 [LinkedIn](https://linkedin.com/in/ellis-pinaman) | 📄 [Resume](https://github.com/EPdacoder05/EPdacoder05-/blob/main/EPresume.pdf) | [Download PDF](https://github.com/EPdacoder05/EPdacoder05/raw/main/EPresume.pdf)
+📧 epinaman@yahoo.com | 📱 614-695-8215 | 📍 Columbus, Ohio | 💼 [LinkedIn](https://linkedin.com/in/ellis-pinaman) | 📄 [Resume](https://github.com/EPdacoder05/EPdacoder05-/blob/main/EPresume.pdf) - [Download PDF version](https://github.com/EPdacoder05/EPdacoder05/raw/main/EPresume.pdf)
 
 ---
 
