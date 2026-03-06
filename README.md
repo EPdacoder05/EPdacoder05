@@ -8,7 +8,7 @@
 
 ## 🚀 What I Build
 
-Python developer with 5+ years building security automation and ML systems across AWS, GCP, Azure. I ship production systems that process 1M+ requests/day with sub-200ms latency while maintaining 99%+ uptime in SOC2/HIPAA-regulated environments.
+Python developer with ~4+ years building security automation and ML systems across AWS, GCP, Azure. I ship production systems that process 1M+ requests/day with sub-200ms latency while maintaining 99%+ uptime in SOC2/HIPAA-regulated environments.
 
 **Current Focus:** ML-powered threat detection, cloud infrastructure automation, DevSecOps pipelines
 
