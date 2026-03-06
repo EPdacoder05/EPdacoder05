@@ -25,7 +25,7 @@ Unified security analytics platform with 3-tier medallion architecture (Bronze/S
 `Python • FastAPI • PostgreSQL • pgvector • Docker • Medallion Architecture`
 
 ### 💰 [FinOps Cost-Control-as-Code](https://github.com/EPdacoder05/finops-cost-control-as-code)
-IaC framework using Pulumi and AWS Lambda for real-time cloud cost monitoring with $0.01 billing alerts, orphaned resource detection, and a reusable 30+ pattern security module library.  
+IaC framework using Pulumi and AWS Lambda for real-time cloud cost monitoring with billing alerts, orphaned resource detection, and a reusable 30+ pattern security module library.  
 `Python • Pulumi • AWS Lambda • Terraform • HCL`
 
 ### 🤖 [Jarvis AI Homelab](https://github.com/EPdacoder05/Jarvis-AI-Assistant)
