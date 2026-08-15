@@ -1,70 +1,103 @@
-# 👋 Hi, I'm Ellis Pinaman
+<div align="center">
 
-**Security-First Python Architect | DevSecOps & AI Systems**
+# ELLIS PINAMAN
 
-📧 epinaman@yahoo.com | 📱 614-695-8215 | 📍 Columbus, Ohio | 💼 [LinkedIn](https://linkedin.com/in/ellis-pinaman) | 📄 [Resume](https://github.com/EPdacoder05/EPdacoder05/blob/main/Ellis-Pinaman-Resume.pdf) - [Download PDF version](https://github.com/EPdacoder05/EPdacoder05/raw/main/Ellis-Pinaman-Resume.pdf)
+### Platform Engineering · DevSecOps · Cloud Automation · Security Systems
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=9CFF5B&center=true&vCenter=true&width=760&lines=I+build+secure+systems+that+ship%2C+scale%2C+and+save+money.;Cloud+automation+%E2%86%92+platform+engineering+%E2%86%92+security.;Breaking+the+boring+stuff.+Automating+what+survives.)](https://git.io/typing-svg)
 
-## 🚀 What I Build
+`AWS` · `GCP` · `Python` · `Terraform` · `Pulumi` · `FastAPI` · `PostgreSQL` · `Docker` · `Security`
 
-Python developer with 4+ years building security automation and ML systems across AWS, GCP, Azure. I ship production systems that process 1M+ requests/day with sub-200ms latency while maintaining 99%+ uptime in SOC2/HIPAA-regulated environments.
+[Portfolio](https://epdacoder05.github.io/ep-portfolio/) · [LinkedIn](https://linkedin.com/in/ellis-pinaman) · [Resume](https://github.com/EPdacoder05/EPdacoder05/blob/main/Ellis-Pinaman-Resume.pdf) · [Email](mailto:epinaman@yahoo.com)
 
-**Current Focus:** ML-powered threat detection, cloud infrastructure automation, DevSecOps pipelines
-
----
-
-## 🔥 Featured Projects
-
-### 🔒 [NullPointVector](https://github.com/EPdacoder05/NullPointVector) - AI Threat Detection Platform
-End-to-end ML pipeline for real-time phishing detection across email, SMS, and voice channels. FastAPI REST service with pgvector similarity search, Dash/Plotly dashboard, and hardened CI/CD with 5 automated security scanners. **94% accuracy, 1M+ daily evaluations, &lt;200ms latency.**  
-`Python • FastAPI • PostgreSQL • pgvector • Docker • scikit-learn • SentenceTransformers`
-
-### 🛡️ [Security Data Fabric](https://github.com/EPdacoder05/security-data-fabric)
-Unified security analytics platform with 3-tier medallion architecture (Bronze/Silver/Gold) ingesting 10+ sources. Semantic search via pgvector, ML anomaly detection with Isolation Forest, async FastAPI backend with 8-level RBAC.  
-`Python • FastAPI • PostgreSQL • pgvector • Docker • Medallion Architecture`
-
-### 💰 [FinOps Cost-Control-as-Code](https://github.com/EPdacoder05/finops-cost-control-as-code)
-IaC framework using Pulumi and AWS Lambda for real-time cloud cost monitoring with billing alerts, orphaned resource detection, and a reusable 30+ pattern security module library.  
-`Python • Pulumi • AWS Lambda • Terraform • HCL`
-
-### 🤖 [Jarvis AI Homelab](https://github.com/EPdacoder05/Jarvis-AI-Assistant)
-Serverless voice assistant backend on AWS converting voice commands into secure smart home actions via Home Assistant's REST API. All secrets managed through AWS Secrets Manager with least-privilege IAM roles and Pulumi IaC.  
-`Python • AWS Lambda • API Gateway • Polly • Transcribe • Terraform`
-
-### 📹 [Cloud Media Pipeline](https://github.com/EPdacoder05/Media-Processing-Pipeline)
-Event-driven AWS pipeline for automated media ingestion, AI analysis (Rekognition + Transcribe), multi-format transcoding (MediaConvert), and smart archiving with S3 Intelligent Tiering. Orchestrated via Step Functions with FinOps cost controls.  
-`Python • S3 • EventBridge • Step Functions • MediaConvert • Rekognition`
-
-### 🏠 [HA-BLE-MQTT Bridge](https://github.com/EPdacoder05/ha-ble-mqtt-bridge)
-Reverse-engineered proprietary BLE protocols of off-the-shelf LED light strips and built an async Python bridge (bleak + aiomqtt) integrating them into Home Assistant via MQTT. Security-hardened Docker deployment.  
-`Python • asyncio • bleak • aiomqtt • Docker • Home Assistant`
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## `> whoami`
 
-**Languages:** Python (primary), SQL, Bash  
-**Cloud:** AWS, GCP (certified), Azure  
-**DevOps:** Docker, Terraform, GitHub Actions, CI/CD  
-**Databases:** PostgreSQL, pgvector, Redis  
-**ML/AI:** scikit-learn, SentenceTransformers, PyTorch  
-**Security:** Zero-Trust, HIPAA, SOC2, SIEM
+Platform Engineer with 4+ years of professional experience building secure cloud infrastructure, automation tooling, backend platforms, and AI-enabled security systems across regulated enterprise environments.
+
+I like work where infrastructure, software, security, and operations collide: migrating hundreds of repositories, eliminating cloud waste, building internal security platforms, reverse-engineering hardware, and turning manual workflows into systems that run themselves.
+
+```text
+STATUS      building
+FOCUS       platform engineering / DevSecOps / cloud automation
+LOCATION    Columbus, Ohio
+CURRENT     AWS DevOps Pro + AWS Security Specialty
+MODE        automate → observe → secure → improve
+```
+
+## `> production_signals`
+
+| Signal | Result |
+|---|---:|
+| Annual infrastructure savings | **$126K** |
+| Repositories migrated | **900+** |
+| Daily security evaluations | **1M+** |
+| Uptime supported | **99.8%** |
+| Enterprise endpoints deployed | **1,000+** |
+
+## `> selected_systems`
+
+### 01 / [NullPointVector](https://github.com/EPdacoder05/NullPointVector)
+**AI threat-detection platform** for email, SMS, and voice channels using FastAPI, PostgreSQL/pgvector, NLP, and hardened CI/CD.
+
+`94% detection accuracy` · `80% false-positive reduction` · `<200ms target latency` · `1M+ daily evaluations`
+
+### 02 / [Security Data Fabric](https://github.com/EPdacoder05/security-data-fabric)
+**Security analytics platform** with Bronze/Silver/Gold medallion architecture, 10+ enterprise sources, semantic vector search, anomaly detection, and multi-level RBAC.
+
+`Python` · `FastAPI` · `PostgreSQL` · `pgvector` · `Docker` · `ML`
+
+### 03 / [FinOps Cost-Control-as-Code](https://github.com/EPdacoder05/finops-cost-control-as-code)
+**Event-driven AWS cost automation** for budget enforcement, orphan detection, billing alerts, and reusable infrastructure/security controls.
+
+`Pulumi` · `Lambda` · `EventBridge` · `CloudWatch` · `Terraform`
+
+### 04 / [HA-BLE-MQTT Bridge](https://github.com/EPdacoder05/ha-ble-mqtt-bridge)
+**Local-first IoT bridge** built by reverse-engineering proprietary BLE lighting protocols and connecting them to Home Assistant through async Python + MQTT.
+
+`Python` · `asyncio` · `bleak` · `aiomqtt` · `Docker` · `Home Assistant`
+
+<details>
+<summary><strong>More systems</strong></summary>
+<br>
+
+- [Jarvis AI Homelab](https://github.com/EPdacoder05/Jarvis-AI-Assistant) — serverless voice-to-home-automation backend on AWS.
+- [Cloud Media Pipeline](https://github.com/EPdacoder05/Media-Processing-Pipeline) — event-driven ingestion, AI analysis, transcoding, and archival workflow.
+
+</details>
+
+## `> toolchain`
+
+```text
+languages      Python · SQL · Bash · PowerShell
+cloud          AWS · GCP · Azure
+platform       Terraform · Pulumi · Docker · GitHub Actions · Linux
+backend        FastAPI · SQLAlchemy · PostgreSQL · pgvector · Redis
+security       IAM · Zero Trust · security automation · HIPAA · SOC 2
+ai/ml          scikit-learn · SentenceTransformers · NLP · vector search
+```
+
+## `> credentials`
+
+- **CompTIA Security+** — verified
+- **CompTIA Network+** — verified
+- **CompTIA A+** — verified
+- **Google Cloud Associate Cloud Engineer** — verified
+- **AWS DevOps Engineer — Professional** — in progress
+- **AWS Security — Specialty** — in progress
+- **B.S. Computer Science, Western Governors University** — in progress
 
 ---
 
-## 📜 Certifications
+<div align="center">
 
-✅ Google Cloud Associate Engineer (GCP-ACE)  
-✅ CompTIA Network+  
-✅ CompTIA A+
+### `EP/`
 
----
+**Build systems. Measure impact. Keep learning.**
 
-## 📫 Let's Connect
+[Explore the portfolio →](https://epdacoder05.github.io/ep-portfolio/)
 
-**Open to opportunities in:** Python Development, Security Engineering, DevOps/MLOps, Cloud Architecture
-
-📧 **Email:** epinaman@yahoo.com  
-💼 **LinkedIn:** [linkedin.com/in/ellis-pinaman](https://linkedin.com/in/ellis-pinaman)  
-📄 **Resume:** [Download PDF](https://github.com/EPdacoder05/EPdacoder05/raw/main/Ellis-Pinaman-Resume.pdf)
+</div>
